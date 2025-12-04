@@ -486,8 +486,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-<img width="920" height="1097" alt="image" src="https://github.com/user-attachments/assets/854b5f74-0f20-493d-9c57-5ab639c928f2" />
-<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/bf2a8558-b47b-4240-8156-e39c18f135fb" />
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/43a582f5-25d4-4aac-a1e8-328dc46ec7e1" />
+
+<img width="1287" height="513" alt="image" src="https://github.com/user-attachments/assets/87b32892-49c8-4fda-be3c-92a1054b967a" />
+
 
 ## Result:
 Thus the program to CONFIGURE ANALOG PORT TO INTEFACE AN ANALOG SENSOR AND READ THE VALUES USING SERIAL PORT has been executed successfully
